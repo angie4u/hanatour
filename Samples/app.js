@@ -95,4 +95,6 @@ bot.dialog('help', function (session, args, next) {
 .triggerAction({
   matches: /^그만$/i
 
+  //test
+
 })
