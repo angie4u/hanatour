@@ -2,12 +2,12 @@
 하나투어 챗봇 핵페스트를 위한 리파지토리 입니다. 
 
 # 설치파일 
-1. Node.js
+1. [Node.js](https://nodejs.org/en/)
 설치 확인: cmd 창에서 node --version 입력
-2. Bot Emulator
-3. git 
-4. (Optional) Visual Studio Code 
-5. (Optional) Storage Explorer 
+2. [Bot Emulator](https://emulator.botframework.com/)
+3. [git](https://git-scm.com/) 
+4. (Optional) [Visual Studio Code](https://www.visualstudio.com/ko/) 
+5. (Optional) [Storage Explorer](https://azure.microsoft.com/en-us/features/storage-explorer/) 
 참고 링크: https://github.com/angie4u/BotFramework/blob/master/Tutorials/01.%EA%B0%9C%EB%B0%9C%ED%99%98%EA%B2%BD%20%EA%B5%AC%EC%84%B1.md
 
 # Azure Pass Enable
